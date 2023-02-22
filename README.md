@@ -1,27 +1,21 @@
-# Smart Analysis of College Semester Averages with Project Cortex ![](/Icons/AdonisJS%20Logo.svg)
+# Córtex Grade Point Average Calculator ![](/assets/calculadora.png)
 
-## _Repository with several subjects in AdonisJS_
+## _Repository with several subjects in HTML5 and CSS3_
 
-> _Practical contents carried out during extracurricular studies._
+> _Practical content used during the creation of the project._
 >
-> - **_TYPESCRIPT - Programming language._**
+> - **_FIGMA - Vector graphics Online Editor._**
+> - **_HTML - Hyper Text Markup Language._**
+> - **_CSS - Cascading Style Sheets._**
 > - **_JAVASCRIPT - Programming language._**
-> - **_NODE.JS - Software._**
 
-![Matheus Battisti](/assets/Capa%20for%20Project.jpg)
-
-## ![](/Icons/instrucoes.png) Instructions for Execute the Project 
+## ![](/assets/instrucoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
-    - [Git Clone](https://github.com/ArthurEstevan/Matheus-Battist-AdonisJS-2022) ⇽ Clone this repository on your computer
-    - [Download](https://github.com/ArthurEstevan/Matheus-Battist-AdonisJS-2022/archive/refs/heads/master.zip) ⇽ Or a direct download from the page 
+    - [Git Clone](https://github.com/ArthurEstevan/Unifebe_Project_Cortex_V1.0) ⇽ Clone this repository on your computer
+    - [Download](https://github.com/ArthurEstevan/Unifebe_Project_Cortex_V1.0/archive/refs/heads/main.zip) ⇽ Or a direct download from the page 
 
 2. Import the project into your IDE and execute the application.
-
-3. Import too the list of collection in your Postman:
-- [Postman Collection](https://github.com/ArthurEstevan/Matheus-Battist-AdonisJS-2022/tree/master/Postman) ⇽ Opens this arquive in your postman, just like in the picture below
-
-![Postman](/assets/Import%20in%20Postman.png)
 
 <br>
     
@@ -29,14 +23,13 @@
 
 ## ![](/Icons/icon_conceito.png) About the Project
 
-Project developed in AdonisJs (framework for Node.Js), this project was intended to further fix the knowledge in the database, however, this time the database format was all Typescript. Using our standard Vscode front-end tool.
-Finally we will use this project to complement another one I'm developing in Angular (framework for Javascript). In the future you will be able to have access to both projects in a single one.
+Cortex is a project aimed at developing a college grade calculator to help students keep track of their grades and calculate their overall GPA. The calculator will allow students to input their course names, credit hours, and grades for each assignment, quiz, or exam, and then calculate their average grade for each course and overall GPA. The project will use a user-friendly interface to allow students to easily input their grades and track their progress throughout the semester. The Cortex project aims to provide a simple and efficient tool for college students to manage their grades and achieve academic success.
 
 <br>
 
 ---
 
-## ![](/Icons/configuracoes.png) Technologies Used
+## ![](https://github.com/ArthurEstevan/Unifebe_Project_Cortex_V1.0/blob/main/assets/configuracoes.png) Technologies Used
 
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; IDE - Integrated development environment
 
