@@ -55,5 +55,6 @@ Cortex is a project aimed at developing a college grade calculator to help stude
 
 > Channel where I learned how to do this project.
 
-1. [Matheus Battisti](https://www.youtube.com/watch?v=y8XfJJYhXPE)
-2. [Site Official AdonisJS](https://adonisjs.com)
+1. [Matheus_Battisti_Html5_and_Css3_Advanced](https://github.com/ArthurEstevan/Matheus_Battisti_Html5_and_Css3_Advanced)
+2. [Entra21_Html5_Css3](https://github.com/ArthurEstevan/Entra21_Html5_Css3)
+3. [Exercise_in_Html5_and_Css3](https://github.com/ArthurEstevan?tab=repositories)
